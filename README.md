@@ -21,3 +21,14 @@
 
 *nota: Es importante realizar los 3, ya que si no se ingresa un comentario, no se realiza el cambio.*
 
+### Comandos usados
+* git init
+* git add .
+* git add FILENAME
+* git commit -m 'comentario'
+* git remote add origin URL
+* git push -u origin master
+* git clone URL
+* git pull
+* git status
+
