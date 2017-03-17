@@ -1,10 +1,10 @@
 # Como crear un nuevo repositorio en hithub
 ![explicacion](github5.png)
-Format: ![Alt Text](url)
 
 
 
-##Como crear un nuevo proyecto en github
+
+## Como crear un nuevo proyecto en github
 
 touch README.md
 git init
@@ -13,7 +13,7 @@ git commit -m "comentario"
 git remote add origin https://github.com/LuchoCastillo/Repositorio.git
 git push -u origin master
 
-##Como subir un proyecto
+## Como subir un proyecto
 
 git add archivo
 git commit -m "comentario"
